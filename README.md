@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @astroboy20
 - 👀 I’m interested in Python, JavaScript/TypeScript(React) development
-- 🌱 I’m currently learning JavaScript/TypeScript(React)
 - 💞️ I’m looking to collaborate on ANY PROJECT I CAN
 - 📫 How to reach me tolulopeakinkunmi7@gmail.com, 09038794210
 
